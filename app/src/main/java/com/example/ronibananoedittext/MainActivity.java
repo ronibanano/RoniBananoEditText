@@ -39,11 +39,6 @@ public class MainActivity extends AppCompatActivity {
     private int rnd6;
     int sum = 0;
 
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
